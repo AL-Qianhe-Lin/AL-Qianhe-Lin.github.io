@@ -4,7 +4,10 @@
 
 
 
+.image{
+  text-align:center;
 
+}
 
 
 
@@ -12,6 +15,7 @@ body {
   position:relative;
   background: rgb(0, 39, 147)
 }
+
 
 
 .header{
