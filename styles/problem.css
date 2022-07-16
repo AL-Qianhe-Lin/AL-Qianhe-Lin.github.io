@@ -4,10 +4,18 @@
 
 
 
+.image{
+  text-align:center;
+
+}
+
+
+
 body {
   position:relative;
-  background: rgb(166, 58, 0)
+  background: rgb(1, 96, 109)
 }
+
 
 
 .header{
@@ -17,17 +25,10 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 color:rgb(83, 86, 94);
 padding: 15px;
 text-align: center;
-background: rgb(0, 170, 255)
+background: rgb(39, 252, 42)
 
 }
-.image{
-  margin-top: 30px;
-  margin-bottom: 65px;
-  margin-right: 150px;
-  margin-left: 150px;
- 
-text-align: center;
-}
+
 
 
 .btn{
@@ -37,26 +38,21 @@ color:rgb(39, 252, 42);
 font-size: 30px;
 box-shadow: 10px 10px 5px 0px rgba(33, 33, 33, 0.75);
 position: absolute;
+
+}
+
+
+
+h3{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color:rgb(255, 255, 255);
+font-size:20px;
+text-align:center;
+
+
 }
 
 
-
-
-.bttn{
-
-
-  cursor: pointer;
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  color:rgb(39, 252, 42);
-  font-size: 30px;
-  
-  
-  text-align: center;
-
-
-
-
-}
 
 
 
@@ -66,27 +62,7 @@ text-align: left;
 
 
 }
-.plan{background-color: rgb(53, 0, 243);
-padding: 50px
-}
 
-
-
-
-.identity{background-color: rgb(0, 95, 41);
-padding: 50px}
-
-.problem{
-  background-color: rgb(255, 166, 0);
-  padding: 50px
-}
-
-
-.bttn{
-  margin-left: 30px;
-  margin-top: 50px;
-  
-}
 
 
 .home{background-color: rgb(255, 0, 0);}
@@ -103,12 +79,9 @@ color:rgb(39, 252, 42)
 
 }
 
-p{
-margin-top: 65px;
-margin-bottom: 65px;
-margin-right: 150px;
-margin-left: 150px;
-}
+
+
+
 
 a{
 color:rgb(83, 86, 94);
@@ -118,13 +91,12 @@ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 .footer{
 
-background:rgb(0, 170, 255);
+background:rgb(39, 252, 42);
 padding: 30px;
 text-align: center;
 
 
 }
-
 
 
 
