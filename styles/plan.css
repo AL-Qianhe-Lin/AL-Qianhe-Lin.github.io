@@ -54,7 +54,13 @@ text-align:center;
 
 
 
+h2{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:rgb(255, 80, 135);
+  font-size:25px;
+  text-align:center;
 
+}
 
 .allbtn{
 display: inline-blcok;
