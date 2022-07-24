@@ -4,6 +4,8 @@
 
 
 
+
+
 body {
   position:relative;
   background: rgb(83, 86, 94)
@@ -129,4 +131,35 @@ animation-name: example;
 }
 
 
+
+@media all and (max-width: 320px){
+  body{
+    background:rgba(31, 112, 226, 0.75)
+  }
+
+  .header{
+    color:rgb(0, 255, 140);
+    background:rgb(29, 0, 197)
+  }
+
+
+
+
+}
+
+
+@media all and (max-width: 768px){
+  body{
+    background:rgba(60, 85, 98, 0.75)
+  }
+
+}
+
+
+@media all and (max-width: 1200px){
+  body{
+    background:rgba(52, 157, 255, 0.75)
+  }
+
+}
 
